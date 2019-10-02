@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>Quashqai_008.jpg</filename>
+	<path>C:\Users\Bruno\Documents\Github\object_detection_demo2\data\images\train\Quashqai_008.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Quashqai</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>296</xmin>
+			<ymin>64</ymin>
+			<xmax>595</xmax>
+			<ymax>204</ymax>
+		</bndbox>
+	</object>
+</annotation>
