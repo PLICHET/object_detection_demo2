@@ -1,0 +1,50 @@
+<annotation>
+	<folder>resized</folder>
+	<filename>T3_40A_Mobile_024.jpg</filename>
+	<path>C:\Users\SESA67051\Documents\GitHub\object_detection_demo2\data\raw\IMAGE T3\40A mobile\resized\T3_40A_Mobile_024.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Pastille T3_40A</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>97</xmin>
+			<ymin>290</ymin>
+			<xmax>187</xmax>
+			<ymax>383</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Pastille T3_40A</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>328</xmin>
+			<ymin>292</ymin>
+			<xmax>418</xmax>
+			<ymax>384</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Contact Mobile</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>210</xmin>
+			<ymin>225</ymin>
+			<xmax>302</xmax>
+			<ymax>449</ymax>
+		</bndbox>
+	</object>
+</annotation>
