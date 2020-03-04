@@ -1,0 +1,26 @@
+<annotation>
+	<folder>resized</folder>
+	<filename>PASTU_175.jpg</filename>
+	<path>C:\Users\SESA67051\Documents\GitHub\object_detection_demo2\data\raw\IMAGE_PASTILLE\resized\PASTU_175.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nok</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>135</xmin>
+			<ymin>62</ymin>
+			<xmax>468</xmax>
+			<ymax>427</ymax>
+		</bndbox>
+	</object>
+</annotation>
