@@ -1,0 +1,26 @@
+<annotation>
+	<folder>DentOk</folder>
+	<filename>DentOk_robusto_94.jpg</filename>
+	<path>D:\Image\Robusto\22222\DentOk\DentOk_robusto_94.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1028</width>
+		<height>772</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>DentOk</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>326</xmin>
+			<ymin>238</ymin>
+			<xmax>407</xmax>
+			<ymax>336</ymax>
+		</bndbox>
+	</object>
+</annotation>
