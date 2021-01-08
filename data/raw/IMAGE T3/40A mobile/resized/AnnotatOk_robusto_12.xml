@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>AnnotatOk_robusto_12.jpg</filename>
+	<path>D:\Image\Robusto\22222\givrage\test\AnnotatOk_robusto_12.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1028</width>
+		<height>772</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Givrage</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>386</xmin>
+			<ymin>311</ymin>
+			<xmax>562</xmax>
+			<ymax>634</ymax>
+		</bndbox>
+	</object>
+</annotation>
