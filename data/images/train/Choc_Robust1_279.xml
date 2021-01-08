@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Choc</folder>
+	<filename>Choc_Robust1_279.jpg</filename>
+	<path>D:\Image\Robusto\22222\Choc\Choc_Robust1_279.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1028</width>
+		<height>772</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Choc</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>575</xmin>
+			<ymin>396</ymin>
+			<xmax>667</xmax>
+			<ymax>500</ymax>
+		</bndbox>
+	</object>
+</annotation>
