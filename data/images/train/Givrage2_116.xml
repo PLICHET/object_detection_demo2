@@ -1,0 +1,26 @@
+<annotation>
+	<folder>resized2</folder>
+	<filename>Givrage2_116.jpg</filename>
+	<path>C:\workspaces\models\research\object_detection\test_image-enregistre\resized2\Givrage2_116.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1028</width>
+		<height>772</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Givrage</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>594</xmin>
+			<ymin>339</ymin>
+			<xmax>681</xmax>
+			<ymax>474</ymax>
+		</bndbox>
+	</object>
+</annotation>

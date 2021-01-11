@@ -1,0 +1,26 @@
+<annotation>
+	<folder>resized2</folder>
+	<filename>givrage3_013.jpg</filename>
+	<path>D:\Image\Robusto\22222\givrage\resized2\givrage3_013.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1028</width>
+		<height>772</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Givrage</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>506</xmin>
+			<ymin>536</ymin>
+			<xmax>605</xmax>
+			<ymax>642</ymax>
+		</bndbox>
+	</object>
+</annotation>
