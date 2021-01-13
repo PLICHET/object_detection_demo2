@@ -1,0 +1,26 @@
+<annotation>
+	<folder>givrage</folder>
+	<filename>givrage_robusto_496.jpg</filename>
+	<path>D:\images\3333\givrage\givrage_robusto_496.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1028</width>
+		<height>772</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Givrage</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>586</xmin>
+			<ymin>225</ymin>
+			<xmax>686</xmax>
+			<ymax>406</ymax>
+		</bndbox>
+	</object>
+</annotation>

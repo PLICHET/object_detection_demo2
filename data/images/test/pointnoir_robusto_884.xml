@@ -1,0 +1,26 @@
+<annotation>
+	<folder>pointnoir</folder>
+	<filename>pointnoir_robusto_884.jpg</filename>
+	<path>D:\images\3333\pointnoir\pointnoir_robusto_884.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1028</width>
+		<height>772</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>PointNoir</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>299</xmin>
+			<ymin>324</ymin>
+			<xmax>367</xmax>
+			<ymax>392</ymax>
+		</bndbox>
+	</object>
+</annotation>
